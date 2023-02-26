@@ -1,0 +1,31 @@
+{
+  "name": "webrtcvideocallapp",
+  "version": "1.0.0",
+  "description": "It is a video call app that has been made using Web RTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman003malhotra/WebRTCVideoCallApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman003malhotra/WebRTCVideoCallApp/issues"
+  },
+  "homepage": "https://github.com/aman003malhotra/WebRTCVideoCallApp#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "react-copy-to-clipboard": "^5.1.0",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
